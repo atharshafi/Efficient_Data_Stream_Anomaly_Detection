@@ -49,7 +49,7 @@ The anomaly detection algorithm implemented in this project is the **Z-score met
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/atharshafi/efficient_data_stream_anomaly_detection.git
+   git clone https://github.com/atharshafi/Efficient_Data_Stream_Anomaly_Detection.git
    cd efficient_data_stream_anomaly_detection
    ```
 
